@@ -95,6 +95,10 @@ body {
   transform: translateY(-10px);
 }
 
+.social-icon__link ion-icon:hover {
+    color: var(--ion-color);
+}
+
 .menu__link {
   font-size: 1.2rem;
   color: #000000;
