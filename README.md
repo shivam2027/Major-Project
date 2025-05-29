@@ -30,24 +30,16 @@ Although the README doesn't provide detailed information about the application's
 To run the project locally, you would typically follow these steps:
 
 Clone the repository:
-
-bash
-Copy
-Edit
 git clone https://github.com/shivam2027/Major-Project.git
 cd Major-Project
+
 Install dependencies:
-
-bash
-Copy
-Edit
 npm install
-Start the application:
 
-bash
-Copy
-Edit
+Start the application:
 npm start
+
+
 Ensure that you have Node.js and npm installed on your system.
 
 
